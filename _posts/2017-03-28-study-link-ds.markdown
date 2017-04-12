@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Write a pyTest"
-date:   2017-03-25 21:02:35 +0000
+title:  "Data Science Study Links"
+date:   2017-03-28 21:02:35 +0000
 categories: datascience python pytest
 ---
 

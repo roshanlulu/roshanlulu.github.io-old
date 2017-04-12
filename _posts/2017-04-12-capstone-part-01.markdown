@@ -2,7 +2,7 @@
 layout: post
 title:  "Capstone Part 1"
 date:   2017-04-12 21:02:35 +0000
-categories: jekyll update
+categories: data science
 ---
 ### About
 

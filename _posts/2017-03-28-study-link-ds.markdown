@@ -51,6 +51,7 @@ Pandas Long and Wide data format
 [Hypothetic Statistics] 
 
 [Data Storytelling]
+[Dataviz]
 
 Plotting
 - [pyplot]
@@ -59,6 +60,18 @@ Plotting
 Linear Regression
 [linregression]
 [linregwithscikit]
+
+Macine learning
+[MachineLearning]
+
+Classification
+[UnderstandingROCcurve]
+
+Feature Selection
+[Feature selection]
+
+Gradient Descent
+[GradientDescent]
 
 
 [Understanding Described datarame] - http://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/
@@ -75,3 +88,11 @@ Linear Regression
 [linregression] - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
 [linregwithscikit] - http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
 [linregnb] - https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb
+[MachineLearning] - https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0
+[Dataviz] - http://www.datavizcatalogue.com/
+
+[BagOfwordsNLP] - https://en.wikipedia.org/wiki/Bag-of-words_model
+[UnderstandingROCcurve] - https://stats.stackexchange.com/questions/105501/understanding-roc-curve
+[Feature selection] - http://machinelearningmastery.com/an-introduction-to-feature-selection/
+[GradientDescent] - https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+[KaggleDS] - https://www.kaggle.com/pmarcelino/house-prices-advanced-regression-techniques/comprehensive-data-exploration-with-python/notebook

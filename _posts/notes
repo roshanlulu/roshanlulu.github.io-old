@@ -1,0 +1,29 @@
+Slide 1
+For my capstone project I will be studying about the various aviation accidents that have occured over the past few decades. Time and again we have heard disheartening stories of flight crashes around the world, particularly with increased frequency in the recent years. Flights are now very affordable and a common mode of transportation. It is of interest to analyse the various factors involved in an accident. 
+I have heard of accidents that have crashed onto mountains, landing crashes and pilot errors and interestingly these reasons have also been the causes in the past. So I would like to start with the problem statement ,Is there a pattern in aviation accidents?
+
+
+Slide 2
+Breaking down my larger question down into smaller questions, these are the goals i plan to acheive through this analysis. I would be looking at Airline providers, Aircraft types, Flight routes, Incident location, Date and time of occurence.
+- Is there any airline that is highly reliable or unreliable?
+- How does domestic sector compare to international sector?
+- Travellers may give a second thought about the airline hey travel with, is the aircraft type important too?
+- Regarding the flight route and terrain, are there ones that require extra attention?
+- What are the most common pilot errors?
+- Which was the time period with more accidents?
+- Come up with an estimation of what can be considered as a safe flight.
+
+I would like to apply the skills learned from the data science course to go ahead with my project.
+
+This topic is of equal interest to the stakeholders involved in the industry as well as the customers.
+Insurance companies can use this information to charge more for flights with a higher risk.
+Pilot training schools could use it to perform indepth case studies
+Aircraft manufacturers could use information to think of ways to prevent related incidents in the future.
+With the increased connectivity around the world, ppeople are travelling all around the world and out of their comfort zones. Wouldnt it be helpful to know how safe it is to fly to a non-native region?
+
+Slide 3
+There are numerous datasets available in the internet for this topic. However, I was able to get a collection of the database in html format from Plane Crash Info website. The author of the website has done a great job in compiling the data from almost the past century.
+
+Data samples are spread across web pages. The first task is to convert the html files into a csv format and get my database ready for use. The idea is to use web scraping or crawling to extract the html data. 
+After a few google searched I found Scrapy, a free and open source web scraping tool using python. I was able to find a bot that uses scrapy framework to extract data. 
+I did a small test to extract one data sample. The output was in a dictionary format. Further i have to extend scrapy to run through few hundreds of pages with the data samples and compile the data into a loadable dataset in csv format.

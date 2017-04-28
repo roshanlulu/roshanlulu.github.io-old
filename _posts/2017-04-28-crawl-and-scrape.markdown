@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Python - I Crawl and Srape!"
-<!--date:   2017-03-25 21:02:35 +0000-->
 date:   2017-04-28 10:30:35 +0000
 categories: data science, scrapy
 ---

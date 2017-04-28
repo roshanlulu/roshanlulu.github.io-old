@@ -29,7 +29,7 @@ Bot I created to crawl and scrape:
     - <projname>/spiders/: a directory where you’ll later put your spiders.
 - project path created - 
 
-####3 2. Update settings file
+##### 2. Update settings file
 - TODO: `Add this line to settings.py file 'DOWNLOAD_HANDLERS = {'s3': None,}'`
 - NOTES: I am yet to check why we are doing this.
 

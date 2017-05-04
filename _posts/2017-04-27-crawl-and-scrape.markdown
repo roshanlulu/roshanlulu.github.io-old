@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Python - I Crawl and Srape!"
-date:   2017-03-25 21:02:35 +0000
+date:   2017-04-27 09:00:00 +0000
 categories: data science, scrapy
 ---
-
 #### A. Preface
 As a part of my Data science capstone project, I had to get data from website links. I started my search and found numerous ways to scrape data of the web. I found Beautiful soup and scrapy to scrape data of a website. Thanks to the open source community and documentation, the web has enough information, all i had to do was to adapt it to what I wanted.
 

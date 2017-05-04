@@ -4,7 +4,6 @@ title:  "Data Science Study Links"
 date:   2017-03-28 21:02:35 +0000
 categories: datascience python pytest
 ---
-
 Jekyll also offers powerful support for code snippets:
 
 {% highlight python %}

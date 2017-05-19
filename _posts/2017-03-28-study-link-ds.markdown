@@ -95,3 +95,6 @@ Gradient Descent
 [Feature selection] - http://machinelearningmastery.com/an-introduction-to-feature-selection/
 [GradientDescent] - https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
 [KaggleDS] - https://www.kaggle.com/pmarcelino/house-prices-advanced-regression-techniques/comprehensive-data-exploration-with-python/notebook
+
+[ApproachingMLproblems] - http://www.kdnuggets.com/2016/08/approaching-almost-any-machine-learning-problem.html?utm_content=buffere52e4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[DBScan] - https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/

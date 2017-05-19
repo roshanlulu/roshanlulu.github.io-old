@@ -1,0 +1,33 @@
+
+
+
+AWS
+
+- EC2 Elastoc Cloud Computing
+    Instance - Virtual Machine
+    AMI - Snapshot of our Machine ot boot an instance(VM). It is possible to save a running instance to an new AMI...
+    SSH - Key pair to connect to an instance(VM) remotely.
+
+    `https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/`
+
+    Lanuch your instance
+- S3 Simple Storage Service
+    Buckets - Unique Containers to stoe your files
+    `https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/`
+
+    `https://github.com/aws/aws-cli`
+    `pip install awscli`
+
+    `https://aws.amazon.com/getting-started/tutorials/backup-to-s3-cli/`
+
+    Create aws bucket from command line
+    delete add files from command line
+    https://github.com/toddm92/aws/wiki/AWS-CLI-Cheat-Sheet
+
+    Run EC2 from Command line
+
+
+Spark
+    It is machine learning like Scikit learn 
+    Installation - go through 9.2.2 spark installation guide
+    

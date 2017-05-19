@@ -4,7 +4,6 @@ title:  "Capstone Part 3"
 date:   2017-05-19 07:19:35 +0000
 categories: data science
 ---
-
 ## Progress Report - Capstone Part 03
 *Project Summary of Aviation Accident Analysis*
 ___
